@@ -1,0 +1,11 @@
+task1/shelf-stock/node_modules
+task1/shelf-stock/dist
+task1/shelf-stock/.env
+
+task1/history-of-actions-with-stock/node_modules
+task1/history-of-actions-with-stock/dist
+task1/history-of-actions-with-stock/.env
+
+task2/node_modules
+task2/dist
+task2/.env
